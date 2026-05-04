@@ -1,2 +1,0 @@
-Average_DO: 3991.50
-Timestamp: 1827
